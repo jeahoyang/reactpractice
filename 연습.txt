@@ -1,6 +1,8 @@
-1차 연습
-2차 연습
-3차 연습
-4차 연습
+#깃허브 명령어 요약
 
-여기는 main 입니다.
+    git add .
+    git commit -m "이름설정"
+    git push 
+
+    git checkout 
+    git branch 
